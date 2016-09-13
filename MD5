@@ -1,0 +1,12 @@
+e3564f27d034214216519b55a20219b0 *DESCRIPTION
+0d4424f7e21a68e976b819235ea51fe7 *NAMESPACE
+cafe7fd676df10ba10b1519bd5602e4a *R/basic.R
+adc2086af4ad5410a0ee5ca0040c82c0 *man/LabelEncoder-class.Rd
+d7bbe6c5dab0ece09069103452fedd21 *man/LabelEncoder.Character-class.Rd
+609dc1ef1f483783e93811280b9ad3b9 *man/LabelEncoder.Factor-class.Rd
+60ccdbe12077d01a4b72a28fbbe1deb4 *man/LabelEncoder.Numeric-class.Rd
+8cc0daeedc205d777c4076d4563202a3 *man/LabelEncoder.fit.Rd
+8868c529a9ef5778771184326bb783df *man/OneHotEncoder-class.Rd
+c92345fd60651d60d52af2c45d94f4b7 *man/OneHotEncoder.fit.Rd
+a3929fa4a0e3cb2d3cbcd5aaa654b165 *man/inverse.transform-methods.Rd
+3939d7628df4f614e70de9930010b6d6 *man/transform-methods.Rd
