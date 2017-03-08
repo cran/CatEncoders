@@ -171,8 +171,7 @@ setMethod("transform", signature(enc = "OneHotEncoder"), function(enc,
     rows <- rows[na_locations]
     cols <- cols[na_locations]
   }
-
-  sp_matrix <- Matrix::sparseMatrix(i = rows, j = cols, x = 1L)
+  sp_matrix <- Matrix::sparseMatrix(i = rows, j = cols, x = 1L,dims=c(n_rows,sum(enc@n_values)))
 
   if (!sparse)
     return(as.matrix(sp_matrix))
